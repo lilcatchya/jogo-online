@@ -1,3 +1,22 @@
 .cabecalho{
+    padding-top: 5px;
+    background-color: black;
     text-align: center;
+    font-size: 34px;
+    font-weight: bold;
+    text-decoration: none;
+    background: linear-gradient(0.0, 0.1);
+}
+
+nav a{
+    text-decoration: none;
+    color: green;
+}
+
+li{
+    display: inline-block;
+}
+
+.fundo{
+    width: 100%;
 }
